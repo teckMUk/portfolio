@@ -1,0 +1,116 @@
+<section id="one">
+        <header class="major">
+          <h2>About Me</h2>
+          <a href="https://bit.ly/Resume_MNoumanA" class="button small icon solid fa-file-pdf" style="float: right">Resume</a>
+        </header>
+        <p>
+          Full-stack software engineer
+          <br>
+          I am excited to apply my knowledge and skills of Computer Science to
+          real-world applications to solve problems. I am always curious about
+          the latest technology and eager to learn new skills. I also love
+          teaching and sharing knowledge with others to help myself and others
+          grow.
+          <br>
+          When I am not in front of my laptop programming, I enjoy painting 🎨
+          and playing table tennis 🏓.
+        </p>
+        
+        <!-- <blockquote>
+        <strong>I am actively looking for full-time Software Engineering roles starting May 2023!</strong>
+        </blockquote>
+        <h3>Research Interests</h3>
+        <ul>
+          <li>Networks and Systems</li>
+          <li>Security and Privacy</li>
+          <li>Machine Learning</li>
+        </ul>
+        <p>
+          Other than research, I am interested in software engineering. I occasionally
+          do web development and other software development to pursue my passion for
+          programming.
+        </p> -->
+        <h3 id="Work-Experience">Work Experience</h3>
+        <blockquote>
+          <h4>
+            <a href="https://thehive.ai/">
+              <img src="images/hive-logo.jpeg" class="image inline">
+            </a>
+            &nbsp;&nbsp;Hive AI, Seattle, WA
+          </h4>
+          <b>Software Engineer</b><i class="float-right">June. 2023 - Present</i><br>
+          Working as a backend engineer to develop and configure REST APIs to deliver ML content to customers such as Reddit, BeReal, and Walmart
+          with high reliablity and scalability.
+        </blockquote>
+        <blockquote>
+          <h4>
+            <a href="https://about.facebook.com/">
+              <img src="images/meta-logo.png" class="image inline">
+            </a>
+            &nbsp;&nbsp;Meta, Menlo Park, CA
+          </h4>
+          <b>Software Engineering Intern</b><i class="float-right">May. 2022 - Aug. 2022</i><br>
+          Worked full-stack, as part of the FX Product Foundation team, to develop a privacy-focused data library used across all apps (Facebook, Instagram, Messenger, Oculus),
+          handling more than <b>30 billion requests/day</b> to enable nearly all cross-app functionality.
+        </blockquote>
+        <blockquote>
+          <h4>
+            <a href="https://www.educative.io/">
+              <img src="images/educative-logo.png" class="image inline">
+            </a>
+            &nbsp;&nbsp;Educative, Inc
+          </h4>
+          <b>Developer Advocate, Part-time</b><i class="float-right">Sep 2020 - Mar 2021</i><br>
+          Created short, interactive software development courses and technical articles to engage users.
+          <b>Developer Advocate, Intern</b><i class="float-right">June 2020 - Aug. 2020</i><br>
+          Worked on the Edpresso platform to create short technical articles.
+        </blockquote>
+        <h3 id="Research-Experience">Research Experience</h3>
+        <blockquote>
+          <h4>
+            <a href="https://engineering.purdue.edu/ECE">
+              <img src="images/purdue-logo.png" class="image inline">
+            </a>
+            &nbsp;&nbsp;ECE Department, Purdue
+          </h4>
+          <b>Graduate Research Assistant</b><i class="float-right">Aug. 2021 - May 2023</i><br>
+          Working on programmable networks and runtime data-plane programmability.
+          <!-- Working with my advisor Prof. Vishal Shrivastav on programmable networks. -->
+        </blockquote>
+        <blockquote>
+          <h4>
+            <a href="https://www.facebook.com/ISPL.NCCS/">
+              <img src="images/ISPL-logo.png" class="image inline">
+            </a>
+            &nbsp;&nbsp;Internet Security and Privacy Lab (ISPL), LUMS
+          </h4>
+          <b>Undergraduate Research Assistant</b><i class="float-right">Aug. 2020 - June 2021</i><br>
+          Conducted the first large-scale measurement study on data voids exploitation in collaboration
+          with the University of Iowa, targeting underground forums to understand how manipulators
+          exploit missing data with misinformation.
+        </blockquote>
+        <h3 id="Teaching-Experience">Teaching Experience</h3>
+        <blockquote>
+          <h4>
+            <a href="https://engineering.purdue.edu/ECE">
+              <img src="images/purdue-logo.png" class="image inline">
+            </a>
+            &nbsp;&nbsp;ECE Department, Purdue
+          </h4>
+          <b>Graduate Teaching Assistant (Intro. to Computer Comm. Networks), Contract</b><i class="float-right">Aug. 2022 - Dec. 2022</i><br>
+        </blockquote>
+        <blockquote>
+          <h4>
+            <a href="https://lums.edu.pk/">
+              <img src="images/LUMS-Logo.png" class="image inline">
+            </a>
+            &nbsp;&nbsp;Lahore University of Management Sciences, Lahore
+          </h4>
+          <b>Teaching Assistant (Topics in Internet Research), Contract</b><i class="float-right">Jan. 2021 - May 2021</i><br>
+          <b>Teaching Assistant (Data Structures), Contract</b><i class="float-right">Jan. 2020 - May 2020</i><br>
+          <b>Head Teaching Assistant (Probability), Contract</b><i class="float-right">Sept. 2019 - Dec. 2019</i><br>
+        </blockquote>
+        <!-- <ul class="actions">
+          <li><a href="#" class="button">Learn More</a></li>
+        </ul> -->
+      </section>
