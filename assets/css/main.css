@@ -110,7 +110,6 @@ input, select, textarea {
 		-webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
-		border-bottom: dotted 1px;
 		color: #49bf9d;
 		text-decoration: none;
 	}
@@ -122,8 +121,10 @@ input, select, textarea {
 		}
 
 	strong, b {
-		color: #787878;
-		font-weight: 400;
+		color: #000;
+		font-weight: bold;
+		font-style: normal;
+		font-family: sans-serif;
 	}
 
 	em, i {
@@ -135,7 +136,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #787878;
+		color: #000;
 		font-weight: 400;
 		line-height: 1em;
 		margin: 0 0 1em 0;
@@ -239,6 +240,10 @@ input, select, textarea {
 
 	.align-right {
 		text-align: right;
+	}
+	.image-inline{
+		width: 7%;
+		height: 7%;
 	}
 
 /* Container */
